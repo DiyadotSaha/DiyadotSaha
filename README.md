@@ -1,7 +1,7 @@
 ### Hi there it's Diya👋
-<img align="center" alt="Diya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiyadotSaha&show_icons=true&hide_border=true&hide=stars,prs,issues&count_private=true&rank_icon=github&theme=radical"/>
+<img align="center" alt="Diya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiyadotSaha&show_icons=true&hide_border=true&hide=stars,prs,issues&count_private=true&rank_icon=github&theme=transparent"/>
 
-<img align="center" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyadotSaha&layout=pie&hide=jupyter%20notebook&theme=radical"/>
+<img align="center" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyadotSaha&layout=pie&hide=jupyter%20notebook&theme=transparent&hide_border=true"/>
 
 
 <!--
