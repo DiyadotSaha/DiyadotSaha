@@ -9,7 +9,6 @@
   <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiyadotSaha&show_icons=true&hide_border=true&hide=stars,prs,issues&count_private=true&rank_icon=github&theme=transparent">
 </p>
 <div align="center">
-  
   <h4>Feel free to take a look around!</h4>
 </div>
 <br>
@@ -19,6 +18,12 @@
     <img alt="Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyadotSaha&theme=transparent&layout=pie&hide_border=true&hide=jupiter%20notebook">
   </a>
 </p>
+
+<div align="center">
+  <h4>Connect with me: </h4>
+  [<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>](https://www.linkedin.com/in/diya-saha/)
+</div>
+
 
 
 
