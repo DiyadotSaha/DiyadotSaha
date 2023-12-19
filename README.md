@@ -4,8 +4,8 @@
 
   <img align="left" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyadotSaha&layout=pie&hide=jupyter%20notebook&theme=transparent&hide_border=false"/>
   
-  <img align="left" alt="Streak" src="https://streak-stats.demolab.com/?user=DiyadotSaha&theme=transparent&hide_border=false"/>
   
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DiyadotSaha)](https://git.io/streak-stats)
 </div>
 
 
