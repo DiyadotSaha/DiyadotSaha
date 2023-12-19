@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-  <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiyadotSaha&title=My%20Github%20Stats&show_icons=true&hide_border=true&hide=stars,prs,issues&count_private=true&rank_icon=github&theme=transparent">
+  <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiyadotSaha&custom_title="My Github Stats"&show_icons=true&hide_border=true&hide=stars,prs,issues&count_private=true&rank_icon=github&theme=transparent">
 </p>
 
 
