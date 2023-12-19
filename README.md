@@ -1,7 +1,8 @@
 ### Hi there it's Diya👋
 <img align="left" alt="Diya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiyadotSaha&show_icons=true&hide_border=true&hide=stars,prs,issues&count_private=true&theme=radical"/>
 
-<img align="left" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyadotSaha"/>
+<img align="left" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyadotSaha&layout=donut&hide=jupiternotebook"/>
+
 <!--
 **DiyadotSaha/DiyadotSaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
