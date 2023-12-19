@@ -9,8 +9,7 @@
     <div style="flex: 1; margin-right: 10px;">
       <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiyadotSaha&show_icons=true&hide_border=true&hide=stars,prs,issues&count_private=true&rank_icon=github&theme=radical">
     </div>
-    <br>
-    <br>
+    
     <div style="flex: 1; margin-left: 10px;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyadotSaha&theme=radical&layout=pie&hide_border=true&hide=jupiter%20notebook">
