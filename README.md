@@ -1,8 +1,6 @@
 ### Hi there it's Diya👋
 
-![Diya's Github Stats](https://github-readme-stats.vercel.app/api?username=DiyadotSaha&show_icons=true&hide_border=false&hide=stars,prs,issues&count_private=true&rank_icon=github&theme=transparent)
-
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyadotSaha&theme=transparent&layout=pie&hide=jupiter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+![Diya's Github Stats](https://github-readme-stats.vercel.app/api?username=DiyadotSaha&show_icons=true&hide_border=false&hide=stars,prs,issues&count_private=true&rank_icon=github&theme=transparent)[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyadotSaha&theme=transparent&layout=pie&hide=jupiter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DiyadotSaha&theme=transparent&hide_longest_streak=true&hide_total_contributions=true)](https://git.io/streak-stats)
