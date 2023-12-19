@@ -1,8 +1,8 @@
 ### Hi there it's Diya👋
 <div align="center">
-  <img align="left" alt="Diya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiyadotSaha&show_icons=true&hide_border=true&hide=stars,prs,issues&count_private=true&rank_icon=github&theme=transparent"/>
+  <img align="left" alt="Diya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiyadotSaha&show_icons=true&hide_border=false&hide=stars,prs,issues&count_private=true&rank_icon=github&theme=transparent"/>
 
-  <img align="left" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyadotSaha&layout=pie&hide=jupyter%20notebook&theme=transparent&hide_border=true"/>
+  <img align="left" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyadotSaha&layout=pie&hide=jupyter%20notebook&theme=transparent&hide_border=false"/>
 </div>
 
 
