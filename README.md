@@ -19,10 +19,7 @@
 </div>
 
 
-<div align="center">
-  <h4>Connect with me: </h4>
-  <a href="https://www.linkedin.com/in/diya-saha/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/></a>
-</div>
+
 
 
 
@@ -31,6 +28,10 @@
 
 
 <!--
+<div align="center">
+  <h4>Connect with me: </h4>
+  <a href="https://www.linkedin.com/in/diya-saha/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/></a>
+</div>
 **DiyadotSaha/DiyadotSaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 Streak: [![GitHub Streak](https://streak-stats.demolab.com/?user=DiyadotSaha&theme=transparent&hide_longest_streak=true&hide_total_contributions=true)](https://git.io/streak-stats)
