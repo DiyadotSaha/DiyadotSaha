@@ -1,23 +1,23 @@
 <div align="center">
   <h3>Hi there, it's Diya👋</h3>
-  <h4>I am a Master of Science student at the University of California, Irvine. I am currently expanding my knowledge in the field of Machine Learning and Artificial Intelligence.</h4>
+  <h4>I am a Master of Science student at the University of California, Irvine. I am currently expanding my knowledge in the field of Machine Learning and Artificial Intelligence. Feel free to take a look around!</h4>
 </div>
 <br>
 
 <br>
-<p align="center">
-  <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiyadotSaha&show_icons=true&hide_border=true&hide=stars,prs,issues&count_private=true&rank_icon=github&theme=transparent">
-</p>
 <div align="center">
-  <h4>Feel free to take a look around!</h4>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <div style="flex: 1; margin-right: 10px;">
+      <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiyadotSaha&show_icons=true&hide_border=true&hide=stars,prs,issues&count_private=true&rank_icon=github&theme=transparent">
+    </div>
+    <div style="flex: 1; margin-left: 10px;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyadotSaha&theme=transparent&layout=pie&hide_border=true&hide=jupiter%20notebook">
+      </a>
+    </div>
+  </div>
 </div>
-<br>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyadotSaha&theme=transparent&layout=pie&hide_border=true&hide=jupiter%20notebook">
-  </a>
-</p>
 
 <div align="center">
   <h4>Connect with me: </h4>
