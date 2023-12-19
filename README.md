@@ -1,9 +1,10 @@
 <div align="center">
   <h3>Hi there, it's Diya👋</h3>
-  I am a Master of Science student at the University of California, Irvine. I am excited to expand my knowledge in the field of Machine Learning and Artificial Intelligence.
-  
+  <h4>I am a Master of Science student at the University of California, Irvine. I am currently expanding my knowledge in the field of Machine Learning and Artificial Intelligence.</h4>
 </div>
+<br>
 
+<br>
 <p align="center">
   <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiyadotSaha&show_icons=true&hide_border=true&hide=stars,prs,issues&count_private=true&rank_icon=github&theme=transparent">
 </p>
