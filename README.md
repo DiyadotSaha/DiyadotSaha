@@ -21,7 +21,7 @@
 
 <div align="center">
   <h4>Connect with me: </h4>
-  [<a href="https://www.linkedin.com/in/diya-saha/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/></a>]
+  <a href="https://www.linkedin.com/in/diya-saha/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/></a>
 </div>
 
 
