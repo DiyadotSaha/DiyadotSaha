@@ -1,11 +1,16 @@
 <div align="center">
-  <h3>Hi there, it's Diya👋</h3>
-  <h4>I am a Master of Science student at the University of California, Irvine. I am currently expanding my knowledge in the field of Machine Learning and Artificial Intelligence. Feel free to take a look around!</h4>
+  <h1>👋 Hi there, I'm Diya</h1>
+  <h3>Master of Science Student | Machine Learning Enthusiast</h3>
+  <p>Welcome to my GitHub profile! I'm a passionate graduate student at the University of California, Irvine, specializing in Machine Learning and Artificial Intelligence. Feel free to explore my projects and contributions.</p>
+</div>
+
+---
 
 <div align="center">
+  <h2>GitHub Stats</h2>
   <div style="display: flex; justify-content: center; align-items: center;">
     <div style="flex: 1; margin-right: 5px; width: 400px;">
-      <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiyadotSaha&show_icons=true&hide_border=true&hide=stars,prs,issues&count_private=true&hide_rank=true&theme=radical">
+      <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DiyadotSaha&show_icons=true&hide_border=true&hide=stars,prs,issues&count_private=true&hide_rank=true&theme=radical">
     </div>
     <div style="flex: 1; margin-left: 5px; width: 400px;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -15,6 +20,39 @@
     </div>
   </div>
 </div>
+
+---
+
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+  <p>Explore some of my highlighted projects:</p>
+  <!-- Add links and descriptions to your featured projects -->
+  - [Project 1](#)
+  - [Project 2](#)
+  - [Project 3](#)
+</div>
+
+---
+
+<div align="center">
+  <h2>📚 Academic Achievements</h2>
+  <p>Currently pursuing a Master's in Computer Science with a focus on:</p>
+  - Machine Learning
+  - Artificial Intelligence
+  - [Your Research Interests]
+
+  <!-- Add any additional academic details or achievements -->
+</div>
+
+---
+
+<div align="center">
+  <h2>🔗 Connect with Me</h2>
+  <p>Let's connect and discuss exciting opportunities:</p>
+  <!-- Add your social media or professional networking links -->
+  [LinkedIn](#) | [Twitter](#) | [Personal Website](#)
+</div>
+
 
 
 
