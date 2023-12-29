@@ -1,6 +1,23 @@
 <div align="center">
   <h3>Hi there, it's Diya👋</h3>
   <h4>I am a Master of Science student at the University of California, Irvine. I am currently expanding my knowledge in the field of Machine Learning and Artificial Intelligence. Feel free to take a look around!</h4>
+
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <div style="flex: 1; margin-right: 5px; width: 400px;">
+      <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiyadotSaha&show_icons=true&hide_border=true&hide=stars,prs,issues&count_private=true&rank_icon=github&theme=radical">
+    </div>
+    <div style="flex: 1; margin-left: 5px; width: 400px;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyadotSaha&theme=radical&hide=jupyter%20notebook&layout=pie&hide_border=true">
+      </a>
+    </div>
+
+  </div>
+</div>
+
+
+<!--  
 </div>
 <br>
 <br>
@@ -15,7 +32,7 @@
       </a>
     </div>
   </div>
-</div>
+</div> -->
 
 
 
