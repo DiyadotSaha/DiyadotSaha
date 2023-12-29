@@ -30,8 +30,8 @@
   <a href="https://github.com/DiyadotSaha/ML_Diabetes_Project" target="_blank">Diabetes Care Management</a><br>
   <a href="https://github.com/DiyadotSaha/EvadeAndAvoid" target="_blank">Flight Simulator</a>
 </div>
----
 
+---
 <div align="center">
   <h2>🔗 Connect with Me</h2>
   <p>Let's connect and discuss exciting opportunities:</p>
