@@ -27,9 +27,9 @@
   <h2>🚀 Featured Projects</h2>
   <p>Explore some of my highlighted projects:</p>
   <!-- Add links and descriptions to your featured projects -->
-  - [Detecting Sleep States](#https://github.com/DiyadotSaha/Detect_Sleep_States)
-  - [Diabetes Care Management](#https://github.com/DiyadotSaha/ML_Diabetes_Project)
-  - [Flight Simulator](#https://github.com/DiyadotSaha/EvadeAndAvoid)
+  - [Detecting Sleep States](https://github.com/DiyadotSaha/Detect_Sleep_States)
+  - [Diabetes Care Management](https://github.com/DiyadotSaha/ML_Diabetes_Project)
+  - [Flight Simulator](https://github.com/DiyadotSaha/EvadeAndAvoid)
 </div>
 
 ---
