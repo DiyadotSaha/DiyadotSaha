@@ -9,12 +9,13 @@
     </div>
     <div style="flex: 1; margin-left: 5px; width: 400px;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
+        <!-- Customize the API parameters here -->
         <img alt="Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyadotSaha&theme=radical&hide=jupyter%20notebook&layout=pie&hide_border=true">
       </a>
     </div>
-
   </div>
 </div>
+
 
 
 <!--  
