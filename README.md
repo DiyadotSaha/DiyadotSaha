@@ -5,7 +5,7 @@
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
     <div style="flex: 1; margin-right: 5px; width: 400px;">
-      <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiyadotSaha&show_icons=true&hide_border=true&hide=stars,prs,issues&count_private=true&rank_icon=github&theme=radical"&card_width=10>
+      <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiyadotSaha&show_icons=true&hide_border=true&hide=stars,prs,issues&count_private=true&rank_icon=github&theme=radical"&card_width=700>
     </div>
     <div style="flex: 1; margin-left: 5px; width: 400px;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
