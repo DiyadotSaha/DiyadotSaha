@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi there, I'm Diya</h1>
-  <h3>Master of Science Student | Machine Learning Enthusiast</h3>
+  <h3>Master of Science, Computer Science Student | Machine Learning Enthusiast</h3>
   <p>Welcome to my GitHub profile! I'm a passionate graduate student at the University of California, Irvine, specializing in Machine Learning and Artificial Intelligence. Feel free to explore my projects and contributions.</p>
 </div>
 
@@ -27,21 +27,9 @@
   <h2>🚀 Featured Projects</h2>
   <p>Explore some of my highlighted projects:</p>
   <!-- Add links and descriptions to your featured projects -->
-  - [Project 1](#)
-  - [Project 2](#)
-  - [Project 3](#)
-</div>
-
----
-
-<div align="center">
-  <h2>📚 Academic Achievements</h2>
-  <p>Currently pursuing a Master's in Computer Science with a focus on:</p>
-  - Machine Learning
-  - Artificial Intelligence
-  - [Your Research Interests]
-
-  <!-- Add any additional academic details or achievements -->
+  - [Detecting Sleep States](#https://github.com/DiyadotSaha/Detect_Sleep_States)
+  - [Diabetes Care Management](#https://github.com/DiyadotSaha/ML_Diabetes_Project)
+  - [Flight Simulator](#https://github.com/DiyadotSaha/EvadeAndAvoid)
 </div>
 
 ---
