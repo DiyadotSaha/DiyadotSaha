@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <h2>GitHub Stats</h2>
+  <h2>📊 GitHub Stats</h2>
   <div style="display: flex; justify-content: center; align-items: center;">
     <div style="flex: 1; margin-right: 5px; width: 400px;">
       <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DiyadotSaha&show_icons=true&hide_border=true&hide=stars,prs,issues&count_private=true&hide_rank=true&theme=radical">
