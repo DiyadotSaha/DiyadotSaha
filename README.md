@@ -22,23 +22,21 @@
 </div>
 
 ---
-
 <div align="center">
   <h2>🚀 Featured Projects</h2>
   <p>Explore some of my highlighted projects:</p>
   <!-- Add links and descriptions to your featured projects -->
-    <a href="https://github.com/DiyadotSaha/Detect_Sleep_States">Detecting Sleep States</a>
-    <a href="https://github.com/DiyadotSaha/ML_Diabetes_Project">Diabetes Care Management</a>
-    <a href="https://github.com/DiyadotSaha/EvadeAndAvoid">Flight Simulator</a>
+  <a href="https://github.com/DiyadotSaha/Detect_Sleep_States" target="_blank">Detecting Sleep States</a><br>
+  <a href="https://github.com/DiyadotSaha/ML_Diabetes_Project" target="_blank">Diabetes Care Management</a><br>
+  <a href="https://github.com/DiyadotSaha/EvadeAndAvoid" target="_blank">Flight Simulator</a>
 </div>
-
 ---
 
 <div align="center">
   <h2>🔗 Connect with Me</h2>
   <p>Let's connect and discuss exciting opportunities:</p>
   <!-- Add your social media or professional networking links -->
-  [LinkedIn](#) | [Twitter](#) | [Personal Website](#)
+  <a href="https://www.linkedin.com/in/diya-saha/" target="_blank">LinkedIn</a> | <a href="https://github.com/DiyadotSaha/Resume" target="_blank">Resume</a>
 </div>
 
 
